@@ -2,6 +2,7 @@ absl-py==0.3.0
 appnope==0.1.0
 astor==0.7.1
 backcall==0.1.0
+cycler==0.10.0
 decorator==4.3.0
 gast==0.2.0
 grpcio==1.14.0
@@ -11,7 +12,9 @@ ipython-genutils==0.2.0
 jedi==0.12.1
 jupyter-client==5.2.3
 jupyter-core==4.4.0
+kiwisolver==1.0.1
 Markdown==2.6.11
+matplotlib==2.2.3
 numpy==1.15.0
 parso==0.3.1
 pexpect==4.6.0
@@ -20,7 +23,9 @@ prompt-toolkit==1.0.15
 protobuf==3.6.0
 ptyprocess==0.6.0
 Pygments==2.2.0
+pyparsing==2.2.0
 python-dateutil==2.7.3
+pytz==2018.5
 pyzmq==17.1.2
 simplegeneric==0.8.1
 six==1.11.0
