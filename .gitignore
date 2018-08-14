@@ -53,3 +53,7 @@ venv
 
 # jupyter notebook
 .ipynb_checkpoints
+
+# save model folder
+save_model/*
+!save_model/.gitkeep
