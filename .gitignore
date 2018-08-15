@@ -57,3 +57,7 @@ venv
 # save model folder
 save_model/*
 !save_model/.gitkeep
+
+# data folder
+data/*
+!data/.gitkeep
