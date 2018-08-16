@@ -61,3 +61,7 @@ save_model/*
 # data folder
 data/*
 !data/.gitkeep
+
+# log folder
+log/*
+!log/.gitkeep
